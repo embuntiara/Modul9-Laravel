@@ -68,7 +68,7 @@
         <div
             style="height: 60%; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-align: center;">
             <div>
-                <img src="https://pngimg.com/uploads/porsche_logo/porsche_logo_PNG1.png" width="80" alt="Logo"
+                <img src="https://i.pinimg.com/736x/81/73/80/8173805dc43de679131b07ca0f438018.jpg" width="80" alt="Logo"
                     style="margin-bottom: 20px;">
             </div>
             <h3 style="margin-bottom: 20px; color: #333;">Employee Data Master</h3>

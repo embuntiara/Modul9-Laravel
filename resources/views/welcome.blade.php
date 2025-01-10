@@ -14,7 +14,7 @@
         <h1 class="mb-4">Belajar Controller & View pada Laravel</h1>
         {{-- Contoh cara mereferensikan gambar di dalam file blade dengan menggunakan pendekatan Vite --}}
         <img class="img-thumbnail"
-            src="https://cut-images.roadster.com/evox/color_640_032_png/54662/54662_cc640_032_D7.png" width="300"
+            src="https://i.pinimg.com/736x/90/a3/dd/90a3dd126fd4d93660b9521cdd8cfc11.jpg" width="300"
             alt="image">
 
         <div class="col-md-2 offset-md-5 mt-4">
